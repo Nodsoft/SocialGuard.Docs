@@ -1,1 +1,71 @@
-{"Name":"SocialGuard","Files":[{"Path":".gitignore","Size":10,"Hash":"15Wzaqd0tyYF3gA4gIzkBJ8BsCXjrpLGO\u002BYkbNq54HM=","ContentType":"application/octet-stream"},{"Path":"README.md","Size":14,"Hash":"iJ7fndjqEFeh68iPZ4qhWvgKo\u002Bk8ZAMpx5q\u002Bg1lIHns=","ContentType":"text/markdown"},{"Path":".git/config","Size":288,"Hash":"RUsrIhQ05/iNKBD5IcgoaAAjSAbm96qhi0W7WdTjoSo=","ContentType":"application/octet-stream"},{"Path":".git/description","Size":73,"Hash":"hatsFj1DoX6pz3eIMIvKFGbxsKjRzJLibpv2PaQGKu4=","ContentType":"application/octet-stream"},{"Path":".git/FETCH_HEAD","Size":0,"Hash":"47DEQpj8HBSa\u002B/TImW\u002B5JCeuQeRkm5NMpJWZG3hSuFU=","ContentType":"application/octet-stream"},{"Path":".git/HEAD","Size":23,"Hash":"9vK5RfbEEbAro9qces6I3PcbavZbouDYmqgpAAQrWhA=","ContentType":"application/octet-stream"},{"Path":".git/index","Size":104,"Hash":"/O8G3lT690m0mEBXvtTLQnCmEPCdLeqEvqXkXSxejho=","ContentType":"application/octet-stream"},{"Path":".git/hooks/README.sample","Size":177,"Hash":"cxnX8YA/2is0FhQ\u002BQmuexMPDyBfHUYiyuCyz5o/yk6s=","ContentType":"application/octet-stream"},{"Path":".git/info/exclude","Size":113,"Hash":"/bfce\u002BFwUcPFBnzfK4/fLKOo2vK16R80xs4f86lMX2o=","ContentType":"application/octet-stream"},{"Path":".git/logs/HEAD","Size":182,"Hash":"osfFvhVsqZekmX//JtssYe6gHSOCqnsCNAAl3YifgT0=","ContentType":"application/octet-stream"},{"Path":".git/logs/refs/heads/master","Size":182,"Hash":"osfFvhVsqZekmX//JtssYe6gHSOCqnsCNAAl3YifgT0=","ContentType":"application/octet-stream"},{"Path":".git/objects/00/a746df711ebff6fdbc4acb175aa7702e6d8595","Size":491,"Hash":"2O8bf\u002BCtDmVvBvmZ2AxckqcvsN6RS6S7xzcjy2WcSio=","ContentType":"application/octet-stream"},{"Path":".git/objects/17/af5cd5ca94f22b6f0978aac2b08b533760b92b","Size":327,"Hash":"0F706pc2I2cDUSXZ9kbz\u002BPpkSEX/eikaU8VXtwEXPvA=","ContentType":"application/octet-stream"},{"Path":".git/objects/1b/b32e429a505f0658e501b427db59d89b6f1baf","Size":835,"Hash":"rD7aDaYagH1T2FEXHCk8HjkZRuFXYjN5ClCkioxC\u002BZI=","ContentType":"application/octet-stream"},{"Path":".git/objects/20/1c8ffdc362b57ec0b5868c225b836c543319bf","Size":165,"Hash":"QPzXjExZJTRJwOx\u002BrsDBE0vJnxArs2H2fw80zSlcHdo=","ContentType":"application/octet-stream"},{"Path":".git/objects/2b/01e71d4d13016e45392e0605ac35bf1ff19010","Size":30,"Hash":"nQo59x7Ekcj71FM\u002B\u002BZQLg9\u002B8xJvLSK2b7y1cZEd91tU=","ContentType":"application/octet-stream"},{"Path":".git/objects/2d/dbdd45e5e30da079382c5bcfbb213531140de5","Size":145,"Hash":"r3AigR17ySy5M2yajq2r1wSbx4BaudBsMDSIkRH3lro=","ContentType":"application/octet-stream"},{"Path":".git/objects/46/0d8eff4364054647b06329cc3f3a84f4c328cb","Size":692,"Hash":"hz0rK0DkaI9Fz8DLEypdz2MEpwjDAA32FirEkzui3NU=","ContentType":"application/octet-stream"},{"Path":".git/objects/4a/5fad74e2bed0e85760616005be4bd0a6920d04","Size":793,"Hash":"fMWJ3Vw0hyHMDjucHhcpUOJ\u002B4aM8Zl7cWMcfHbvM3ZE=","ContentType":"application/octet-stream"},{"Path":".git/objects/4f/9581e404f808a59ba0c933a570ad758a3ec157","Size":880,"Hash":"u5e52eMYSOzEY6A8JkoufsLnsvumiU2LEzyDj4RLLhM=","ContentType":"application/octet-stream"},{"Path":".git/objects/6f/c062f2447005dfa0e1b50c44e2302c843c7858","Size":572,"Hash":"vzRpQ/g5gxasgYKe7o9j9YJcIitYbkXOfd7KpcHtRwk=","ContentType":"application/octet-stream"},{"Path":".git/objects/76/9dc31c69e8419bfc1c13620e58c68442ac66b7","Size":132,"Hash":"VsFBwM3Ki\u002B173\u002Beo0rCwSY7AWwc/Q21nRgZPg8MBMX4=","ContentType":"application/octet-stream"},{"Path":".git/objects/82/c96d513730770f604c6abe5430d312d4aaed65","Size":714,"Hash":"U5znyuOB5ji9JPCSrUkrJv75YQ0FZSkMNRxlS/5RCTY=","ContentType":"application/octet-stream"},{"Path":".git/objects/af/253e0fc2f8570c3d27424fecee939d847a1e83","Size":26,"Hash":"ObCyVEbgdwDO55p3KG2V8TD8Fcc7v9V6M36M6jq4msI=","ContentType":"application/octet-stream"},{"Path":".git/objects/b7/2e3c654fd8bc50e484301654a0978ea76972b7","Size":1069,"Hash":"E7tBIayGQ5lDFUCoZwg\u002BngaidgGgAKJhc9CFTavQdEg=","ContentType":"application/octet-stream"},{"Path":".git/objects/b8/8cab53fc72e409a04473c017c0a09dc620c1c4","Size":533,"Hash":"f882hWpjiaohZNfAo\u002Bh2ELXZh/lMZDA0NA6NpkWgT6g=","ContentType":"application/octet-stream"},{"Path":".git/objects/bf/627163cc7adca06bd617db5f16592499486fb5","Size":53,"Hash":"U34sYZ8JHdgtJ4m24ARuZjxNoYh0HuLBPSNTupRT/5Y=","ContentType":"application/octet-stream"},{"Path":".git/objects/f3/096fa3e008767ff81c9bb974e3baf1024407a2","Size":679,"Hash":"c1Bu3tMEWhWZFVZCcJcZoEUCCamxrzhZ2pqE1oek6Dg=","ContentType":"application/octet-stream"},{"Path":".git/refs/heads/master","Size":41,"Hash":"IZWIrI4TeUvyV/XiiJvT7/4G7ndVO5tVlFKIkfa4Ihg=","ContentType":"application/octet-stream"},{"Path":"Concepts/Directory.md","Size":199,"Hash":"Z0441HyUVQWj2sPh/NJhwUPa7xoPEA9OnW9LeRdmjPY=","ContentType":"text/markdown"},{"Path":"Concepts/Emitter.md","Size":1304,"Hash":"vGuYkDYCP5d36XDDr106Gv1lCvRgC6ZlfwgK6iBQqa8=","ContentType":"text/markdown"},{"Path":"Concepts/Entry.md","Size":1857,"Hash":"jTd3L7ACHW7US13Il34Nsr\u002B9y8mG7wT9hQGdF1W/Lvk=","ContentType":"text/markdown"},{"Path":"Concepts/Platform.md","Size":154,"Hash":"mc22zQzdHIaurmh4/92kAyJteDSZs38VofXsVWzYHrw=","ContentType":"text/markdown"},{"Path":"Concepts/Record.md","Size":554,"Hash":"8Wd\u002Bx7LZoKqw/2PIJDT7nf6oioimE0qwthRKwomOYcI=","ContentType":"text/markdown"},{"Path":"Concepts/User.md","Size":143,"Hash":"\u002Bo6RZQMPPaeslEFEK0C0xbfZ8q6AsdcRV4r2JeT7ymg=","ContentType":"text/markdown"},{"Path":"Design Proposals/v4.0/Cross-Platform User linking.md","Size":904,"Hash":"fPgcrIGM/hXz9yTzoC5oQ3tZ6O5LXgSMInFtVDwaWHI=","ContentType":"text/markdown"},{"Path":"Design Proposals/v4.0/Directory Discovery.md","Size":965,"Hash":"lGHusx7K12UiVCThFt3okR/kG\u002BfK3RF8\u002Bo1eS8cpMwY=","ContentType":"text/markdown"},{"Path":"Design Proposals/v4.0/Multi-Directory System.md","Size":1342,"Hash":"Ivl9TFm4l9h03vK4iHl02WmOJxLksSg78EXwEOC/\u002Bmc=","ContentType":"text/markdown"},{"Path":"Design Proposals/v4.0/Platform-neutral API.md","Size":2064,"Hash":"JuZ8T7h2kGI7u2lc36WPgvKKm1iF\u002BBS\u002BlCzDhsYWibw=","ContentType":"text/markdown"},{"Path":"Design Proposals/v4.0/URI keys.md","Size":1587,"Hash":"pmvjV\u002B6T1TEgGvkfWKd2SMTDvqNHFGXdI8K0IsosGWg=","ContentType":"text/markdown"}]}
+{
+  "Name": "SocialGuard",
+  "Files": [
+    {
+      "Path": "Concepts/Directory.md",
+      "Size": 199,
+      "Hash": "Z0441HyUVQWj2sPh/NJhwUPa7xoPEA9OnW9LeRdmjPY=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Concepts/Emitter.md",
+      "Size": 1304,
+      "Hash": "vGuYkDYCP5d36XDDr106Gv1lCvRgC6ZlfwgK6iBQqa8=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Concepts/Entry.md",
+      "Size": 1857,
+      "Hash": "jTd3L7ACHW7US13Il34Nsr\u002B9y8mG7wT9hQGdF1W/Lvk=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Concepts/Platform.md",
+      "Size": 154,
+      "Hash": "mc22zQzdHIaurmh4/92kAyJteDSZs38VofXsVWzYHrw=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Concepts/Record.md",
+      "Size": 554,
+      "Hash": "8Wd\u002Bx7LZoKqw/2PIJDT7nf6oioimE0qwthRKwomOYcI=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Concepts/User.md",
+      "Size": 143,
+      "Hash": "\u002Bo6RZQMPPaeslEFEK0C0xbfZ8q6AsdcRV4r2JeT7ymg=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Design Proposals/v4.0/Cross-Platform User linking.md",
+      "Size": 904,
+      "Hash": "fPgcrIGM/hXz9yTzoC5oQ3tZ6O5LXgSMInFtVDwaWHI=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Design Proposals/v4.0/Directory Discovery.md",
+      "Size": 965,
+      "Hash": "lGHusx7K12UiVCThFt3okR/kG\u002BfK3RF8\u002Bo1eS8cpMwY=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Design Proposals/v4.0/Multi-Directory System.md",
+      "Size": 1342,
+      "Hash": "Ivl9TFm4l9h03vK4iHl02WmOJxLksSg78EXwEOC/\u002Bmc=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Design Proposals/v4.0/Platform-neutral API.md",
+      "Size": 2064,
+      "Hash": "JuZ8T7h2kGI7u2lc36WPgvKKm1iF\u002BBS\u002BlCzDhsYWibw=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": "Design Proposals/v4.0/URI keys.md",
+      "Size": 1587,
+      "Hash": "pmvjV\u002B6T1TEgGvkfWKd2SMTDvqNHFGXdI8K0IsosGWg=",
+      "ContentType": "text/markdown"
+    }
+  ]
+}
