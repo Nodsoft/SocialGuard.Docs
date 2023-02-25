@@ -26,11 +26,13 @@ Developing such a specification may give way to increased complexity in identify
 ##### Mitigation
 Designing the database in a composite-key system might mitigate all possibilities of collisions and/or confusion, however doesn't solve the scalar type mismatch issue for relational databases.
 
-One possible mitigation for DB IDs would be this combination :
+One possible mitigation for DB IDs would be this combination :  
+
 | Column name | Data type | Indexed? |
 | ----------- | --------- | -------- |
 | PlatformId  | `string`    | Yes      |
 | UserId      | `string`    | Yes      |
+
 
 Using a specific string as a Discriminator for a [[platform]] as the first column, then defining the correct ID for a [[user]] under a universal string-typed second column, this would cover 95% of all possible use cases for any RDBMS used by an API. 
 

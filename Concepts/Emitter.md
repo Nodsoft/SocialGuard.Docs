@@ -1,7 +1,7 @@
 # Emitter
 
 ## Definition
-A trusted party of a [[Concepts/Directory]], responsible for creating new [[Entry|Entries]], based on quantifiable events that impacted their platform.
+A trusted party of a [[Directory]], responsible for creating new [[Entry|Entries]], based on quantifiable events that impacted their platform.
 
 ## Specifications (3.0)
 #v3_0
