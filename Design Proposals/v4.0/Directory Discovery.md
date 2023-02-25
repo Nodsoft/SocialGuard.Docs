@@ -1,10 +1,10 @@
 # Design Proposal: Directory Discovery
 
 ## Context
-Expanding into the [[Multi-Directory System]] proposal, SocialGuard [[/Concepts/Directory|directories]] should be easily identifiable, and discoverable, which would allow for communication across directories.
+Expanding into the [[Multi-Directory System]] proposal, SocialGuard [[Directory|directories]] should be easily identifiable, and discoverable, which would allow for communication across directories.
 
 ## Problem
-A [[Concepts/Directory|directory]] has no means to discover another peer directory, short of a swagger page. However, this is not a trustworthy mean of identification.
+A [[Directory|directory]] has no means to discover another peer directory, short of a swagger page. However, this is not a trustworthy mean of identification.
 
 ## Solution 
 #v4_0 

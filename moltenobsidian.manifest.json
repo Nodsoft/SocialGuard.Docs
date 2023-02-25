@@ -45,14 +45,14 @@
     },
     {
       "Path": "Design Proposals/v4.0/Directory Discovery.md",
-      "Size": 965,
-      "Hash": "lGHusx7K12UiVCThFt3okR/kG\u002BfK3RF8\u002Bo1eS8cpMwY=",
+      "Size": 946,
+      "Hash": "7WlaJ9B93ByW9wxksFtxt7lhcxnNTV8I3W9NeRRgiko=",
       "ContentType": "text/markdown"
     },
     {
       "Path": "Design Proposals/v4.0/Multi-Directory System.md",
-      "Size": 1342,
-      "Hash": "Ivl9TFm4l9h03vK4iHl02WmOJxLksSg78EXwEOC/\u002Bmc=",
+      "Size": 1297,
+      "Hash": "zgKZH9q3tmbPOyE1i/8clKFsJfBoNKjOXuPFJohQbUs=",
       "ContentType": "text/markdown"
     },
     {
@@ -65,6 +65,18 @@
       "Path": "Design Proposals/v4.0/URI keys.md",
       "Size": 1587,
       "Hash": "pmvjV\u002B6T1TEgGvkfWKd2SMTDvqNHFGXdI8K0IsosGWg=",
+      "ContentType": "text/markdown"
+    },
+    {
+      "Path": ".gitignore",
+      "Size": 10,
+      "Hash": "15Wzaqd0tyYF3gA4gIzkBJ8BsCXjrpLGO\u002BYkbNq54HM=",
+      "ContentType": "application/octet-stream"
+    },
+    {
+      "Path": "README.md",
+      "Size": 1203,
+      "Hash": "5rDQeXbLZ\u002B8ZuI82FLZfgnLP3xQyHEwvbfdZ5D2zXJQ=",
       "ContentType": "text/markdown"
     }
   ]
